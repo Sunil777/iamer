@@ -132,5 +132,5 @@ _TO BE IMPLEMENTED_
 
 ## See Also
 
-- [ec2-security-groups-dumper](https://github.com/percolate/ec2-security-groups-dumper)
+- [ec2-security-groups-dumper](https://github.com/Sunil777/ec2-security-groups-dumper)
   to dump your EC2 Security Groups as CSV and JSON text files.
